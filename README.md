@@ -1,33 +1,27 @@
-<!DOCTYPE html>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F735&random=false&width=435&lines=Hello%2C+friend!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F735&random=false&width=435&lines=Hello%2C+friend!;I'm+Al'vin;Learning+backend+with+FastAPI"
       alt="Typing SVG"
   /></a>
 </h1>
+
 <img
   align="right"
-  src="https://otvet.imgsmail.ru/download/5761854_85d986184bec80b9e0be76124c26c1a0_800.gif"
+  src="assets/cat.gif"
   alt=""
   width="300px"
 />
-<p>My name is Alvin, I learning Python & C++.</p>
 
+My name is Al'vin. I'm learning Python and FastAPI, and I want to become a backend developer.
 
-<!--
+### What I'm working on
+- Async REST API with FastAPI, SQLAlchemy 2.0, Pydantic
+- Next: Alembic, PostgreSQL, Docker, JWT
 
-**Darkwell005/Darkwell005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- [fastapi-users](https://github.com/Darkwell005/fastapi-users): CRUD API with validation
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
