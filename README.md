@@ -20,7 +20,7 @@ My name is Al'vin. I'm learning Python and FastAPI, and I want to become a backe
 - Next: Alembic, PostgreSQL, Docker, JWT
 
 ### Projects
-- [fastapi-users](https://github.com/Darkwell005/fastapi-users): CRUD API with validation
+- [FastAPI](https://github.com/Darkwell005/fastapi-users): CRUD API with validation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
